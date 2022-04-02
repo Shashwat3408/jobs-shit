@@ -1,0 +1,57 @@
+
+
+.main-container {
+    background-color: #d4a5a5;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+  }
+  h1 {
+    font-size: 80px;
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .information {
+    padding: 25px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+    .info-section {
+      height: 200px;
+      display: block;
+      justify-content: center;
+    }
+
+      .info-header {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+      }
+      .stats {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+      justify-content: center;
+      font-size: 30px;
+      background-color: white;
+      border: solid orange 5px;
+      border-radius: 20px;
+      padding: 20px;
+      width: 600px;
+
+        transform: translateY(6px);
+        height: 20px;
+        font-size: 30px;
+        margin-bottom: 0;
+
+    }
+  
+  
+  .list-of-items {
+    margin: 20px;
+  }
+  
